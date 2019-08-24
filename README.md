@@ -1,20 +1,18 @@
 # tiier-server
 
-FIXME: description
+This is the back end server for my game [Tiier](https://github.com/dhershman1/tiier) I am currently working on.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Coming Soon
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar tiier-server-0.1.0-standalone.jar [args]
+Coming Soon
 
 ## Options
 
-FIXME: listing of options this app accepts.
+Coming Soon
 
 ## Examples
 
@@ -28,9 +26,3 @@ FIXME: listing of options this app accepts.
 ### That You Think
 ### Might be Useful
 
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
